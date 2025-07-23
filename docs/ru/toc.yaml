@@ -8,6 +8,8 @@ items:
   - name: Другая страница
     href: anotherpage.md
   - name: Подраздел
+  - name: ТЗад
+    href: TechTask.md
     include:
       path: sub-section/toc.yaml
       mode: link
